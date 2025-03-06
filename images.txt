@@ -4,7 +4,7 @@ infiniflow/ragflow:v0.16.0
 
 infiniflow/infinity:v0.6.0-dev3
 
-infinity/infinity
+
 
 elasticsearch:8.11.3
 
